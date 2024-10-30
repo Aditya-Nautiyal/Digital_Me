@@ -16,7 +16,7 @@ function ProjectCard() {
         <ScrollAnimation animateIn="fadeInLeft" key={index}>
           <Card>
             <CardLeft>
-              <img src={list.img} alt={list.name} />
+              <img src={list.img} alt={list.name} style={{ height:"100%", borderRadius:"10px"}}/>
             </CardLeft>
             <CardRight>
               <h4>{list.title}</h4>

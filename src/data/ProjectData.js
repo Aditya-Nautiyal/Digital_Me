@@ -1,13 +1,13 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/Login_Page.png",
+    title: "Gatezy",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+      "A login page allows users to enter their credentials to securely access the application.",
+    tech_stack: ["React JS", "NodeJs", "MongoDB", "Express"],
     github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    demo_url: "https://gatezy.netlify.app/",
   },
   {
     img: "/renr-responsive.png",
