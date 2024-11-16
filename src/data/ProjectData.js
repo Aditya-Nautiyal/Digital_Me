@@ -6,16 +6,16 @@ export const ProjectList = [
     description:
       "A login page allows users to enter their credentials to securely access the application.",
     tech_stack: ["React JS", "NodeJs", "MongoDB", "Express"],
-    github_url: "",
+    github_url: "https://github.com/Aditya-Nautiyal/Login_SignUp_Page",
     demo_url: "https://gatezy.netlify.app/",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/Fun_Stack.png",
+    title: "Fun Stack",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
+      "Memory Match Game: Test your memory and speed to complete the challenge!",
+    tech_stack: ["React JS", "NodeJs", "MongoDB", "Express"],
+    github_url: "https://github.com/Aditya-Nautiyal/Fun_Stack",
     demo_url: "https://renr-bcit.web.app/",
   },
   {
